@@ -18,6 +18,12 @@ This is a simple Python program to calculate the monthly share of expenses per p
 - Arithmetic Calculations
 - Basic Validation
 - Modular Program Design
+# Skills Used
+- Python functions & arithmetic calculations
+- Loops & conditional statements
+- User input handling & validation
+- Data processing & modular program design
+- Problem-solving & logical thinking
 
 # How to Use
 1. Run `rent_calculator.py`
